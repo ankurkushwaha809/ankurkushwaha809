@@ -61,32 +61,57 @@
 
 <br/>
 
-<h2 align="center">💼 Professional Experience & Featured Work</h2>
+<h2 align="center">💼 Professional Experience</h2>
+
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🏢 Full Stack Developer</h3>
+      <p><b>Digimees IT Solution</b> | <i>June 2024 - Present</i></p>
+      <hr/>
+      
+      <h4>💊 Bulk Medicine E-Commerce Platform | <i>Lucent Biotech Limited</i></h4>
+      <ul>
+        <li>Developed a scalable full-stack medical e-commerce platform for bulk medicine purchasing across web and mobile applications.</li>
+        <li>Built secure RESTful APIs using Node.js, Express.js, and MongoDB.</li>
+        <li>Developed cross-platform mobile applications using React Native.</li>
+        <li>Integrated third-party services including Shiprocket, Razorpay, Twilio, Cloudinary, and SendGrid.</li>
+        <li>Designed and developed admin dashboard for inventory, order, and user management.</li>
+        <li>Managed deployment and server configuration on AWS EC2 with GoDaddy domain setup.</li>
+      </ul>
+
+      <br/>
+
+      <h4>📚 Training Management System (TMS) | <i>Lucent Biotech Limited</i></h4>
+      <ul>
+        <li>Developed a full-stack Training Management System for managing courses, trainers, employees, and attendance.</li>
+        <li>Implemented secure JWT-based authentication and role-based access control.</li>
+        <li>Built modules for course enrollment, attendance tracking, and performance management.</li>
+        <li>Designed responsive admin and trainer dashboards with scalable backend architecture.</li>
+        <li>Developed REST APIs for smooth frontend and backend communication.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">🚀 Projects</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 Digimees IT Solution</h3>
-      <p><i>Full Stack Developer | May 2024 - Present</i></p>
-      <p>Architecting and deploying scalable MERN stack web and mobile applications. Managing secure authentication flows, 3rd-party payment integrations, and automated cloud deployments.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💊 Bulk Medicine E-Commerce</h3>
-      <p><i>Lucent Biotech Limited</i></p>
-      <p>Developed a B2B medical platform API (Node/Express/MongoDB). Built React Native apps and integrated Razorpay, Shiprocket, and Twilio. Full infrastructure deployed on AWS EC2.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Training Management System</h3>
-      <p><i>Lucent Biotech Limited</i></p>
-      <p>Engineered a full-stack platform with JWT Role-Based Access Control. Designed modules for attendance tracking, course management, and scalable REST APIs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Full Stack Projects</h3>
+      <h3>🚗 Car Parking Management System</h3>
       <ul>
-        <li><b>🚗 Car Parking System:</b> Real-time slot availability, admin management, and booking APIs.</li>
-        <li><b>🍽️ Restaurant Booking:</b> High-concurrency table management and reservation portal.</li>
+        <li>Developed parking slot booking and management system with admin and user modules.</li>
+        <li>Built authentication, REST APIs, and real-time slot availability features.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Restaurant Management & Table Booking</h3>
+      <ul>
+        <li>Developed restaurant booking platform with table reservation and admin management features.</li>
+        <li>Implemented authentication, booking management, and responsive UI.</li>
       </ul>
     </td>
   </tr>
