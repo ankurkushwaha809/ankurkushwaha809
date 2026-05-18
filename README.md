@@ -65,7 +65,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🏢 Freelance Full Stack Developer</h3>
+      <h3>🏢 Full Stack Developer</h3>
       <p><i>Digimees IT Solution | May 2024 - Present</i></p>
       <p>Architecting and deploying scalable MERN stack web and mobile applications featuring secure authentication, 3rd-party payment integrations, and automated cloud deployments.</p>
     </td>
