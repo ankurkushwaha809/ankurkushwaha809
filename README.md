@@ -6,14 +6,43 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Native+Developer;Building+AI+Solutions;Learning+Cloud+Architecture" />
 
 ---
+<h2 align="center">📬 Let's Connect</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurkushwaha809@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankurkushwaha809)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankurkushwaha809)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ankurportfolio809.vercel.app)
+<table align="center">
+<tr>
+<td align="center" width="100">
+<a href="mailto:ankurkushwaha809@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="70" />
+</a>
+<br>
+<b>Email</b>
+</td>
 
-<img src="https://komarev.com/ghpvc/?username=ankurkushwaha809&color=blue&style=flat-square" alt="visitor counter" />
+<td align="center" width="100">
+<a href="https://github.com/ankurkushwaha809">
+<img src="https://skillicons.dev/icons?i=github" width="70" />
+</a>
+<br>
+<b>GitHub</b>
+</td>
 
+<td align="center" width="100">
+<a href="https://linkedin.com/in/ankurkushwaha809">
+<img src="https://skillicons.dev/icons?i=linkedin" width="70" />
+</a>
+<br>
+<b>LinkedIn</b>
+</td>
+
+<td align="center" width="100">
+<a href="https://ankurportfolio809.vercel.app">
+<img src="https://img.icons8.com/fluency/96/domain.png" width="70" />
+</a>
+<br>
+<b>Portfolio</b>
+</td>
+</tr>
+</table>
 </div>
 
 ## 📖 About Me
