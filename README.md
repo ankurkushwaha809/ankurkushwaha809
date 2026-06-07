@@ -1,191 +1,180 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Ankur%20Kushwaha&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+# 👋 Hi, I'm Ankur Kushwaha
 
-# 👋 Full Stack Developer
+### Full Stack Developer • React Native • Node.js • AI Integration
 
-### MERN Stack • React Native • AI Integration • Cloud Deployment
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Applications;React+Native+Developer;Node.js+Backend+Engineer;AI+Powered+Solutions;AWS+Cloud+Deployment" />
 
-<p align="center">
-<a href="https://github.com/ankurkushwaha809">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<br/>
+
+<a href="mailto:ankurkushwaha809@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/ankurkushwaha809">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/ankurkushwaha809">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://ankurportfolio809.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<a href="mailto:ankurkushwaha809@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```javascript
-const ankur = {
-    role: "Full Stack Developer",
-    experience: "2+ Years",
-    location: "Noida, India",
-    specialization: [
-        "MERN Stack",
-        "React Native",
-        "REST APIs",
-        "AI Applications"
-    ],
-    currentFocus: [
-        "System Design",
-        "Cloud Architecture",
-        "AI Agents",
-        "LLM Integration"
-    ]
-}
-```
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding"/>
 
----
+Full Stack Developer with **2+ years of experience** building production-ready web, mobile, and AI-powered applications.
 
-## ⚡ Tech Arsenal
+### 🚀 Current Focus
 
-### Frontend
+* Full Stack Web Applications
+* React Native Mobile Apps
+* AI & LLM Integrations
+* SaaS Products
+* AWS Cloud Deployment
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,materialui" />
-</p>
+### ⚡ Core Technologies
 
-### Backend
+`React.js`
+`React Native`
+`Node.js`
+`Express.js`
+`MongoDB`
+`PostgreSQL`
+`AWS`
+`Tailwind CSS`
+`LLMs`
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,githubactions" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
+<br clear="right"/>
 
 ---
 
-## 🤖 AI & Automation
+## 🛠 Tech Stack
 
-* LLM Integration
-* Prompt Engineering
-* Whisper Speech-to-Text
-* AI Tool Calling
-* Tavily Search API
-* Resume ATS Analysis
-* Document Intelligence Systems
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,aws,tailwind,git,github,vercel" />
+</p>
 
----
-
-## 💼 What I Build
-
-### 🏥 Medical E-Commerce Platforms
-
-Scalable web and mobile applications with payment, logistics, and cloud integrations.
-
-### 🎓 College ERP Systems
-
-Complete academic management systems with role-based access control.
-
-### 🤖 AI-Powered Applications
-
-Voice assistants, resume analyzers, document intelligence, and LLM workflows.
-
-### 📱 Cross Platform Mobile Apps
-
-React Native applications for Android and iOS.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,vscode,postman" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 College ERP
+### 🏥 Bulk Medicine Marketplace
 
-Role-based campus management platform.
+Enterprise-grade medical e-commerce platform with:
 
-**Tech Stack**
+* Razorpay Payment Integration
+* Shiprocket Logistics
+* Twilio Notifications
+* Cloudinary Storage
+* AWS Deployment
+* React Native Mobile Application
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Material UI`
+**Stack:** React Native • React.js • Node.js • MongoDB • AWS
 
 ---
 
-### 🤖 AI Voice Assistant
+### 🤖 AI Assistant Platform
 
-Voice-enabled AI assistant with web search capabilities.
+Voice-enabled AI assistant featuring:
 
-**Features**
-
-* Whisper STT
+* Whisper Speech-To-Text
+* AI Tool Calling
 * Tavily Search
-* Tool Calling
-* Resume ATS Evaluation
+* ATS Resume Analysis
+* PDF Intelligence
+
+**Stack:** React.js • Node.js • Groq API • Whisper • Tavily
 
 ---
 
-### 🚗 Smart Parking System
+### 🎓 Training Management System
 
-Real-time slot booking and parking management.
+Corporate learning platform with:
 
-**Tech Stack**
+* Role-Based Authentication
+* Course Management
+* Progress Tracking
+* Video Learning
+* Payment Integration
 
-`React` `Node.js` `MongoDB` `Socket.io`
+**Stack:** React.js • Node.js • MongoDB • JWT
 
 ---
 
-## 📊 GitHub Analytics
+### 🏫 College ERP
+
+Campus management platform featuring:
+
+* Attendance Management
+* Assignment Tracking
+* Marks Management
+* Notice Board
+* Dashboard Analytics
+
+**Stack:** React.js • Express.js • MongoDB • Material UI
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankurkushwaha809&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurkushwaha809&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurkushwaha809&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurkushwaha809&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ankurkushwaha809&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurkushwaha809&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## 🏆 Achievements
+## 🌐 Connect With Me
 
-🏅 Energetic Contributor Trophy - IPEM Ghaziabad
+<p align="center">
 
-🏅 Steady Performer Appreciation Award
+<a href="mailto:ankurkushwaha809@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🏅 MCA Graduate (2025)
+<a href="https://github.com/ankurkushwaha809">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ankurportfolio809.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 💡 Building solutions that solve real-world problems.
-
-<img src="https://komarev.com/ghpvc/?username=ankurkushwaha809&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+### ⭐ Building Scalable Web, Mobile & AI Solutions
 
 </div>
