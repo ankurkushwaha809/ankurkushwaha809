@@ -83,7 +83,7 @@ I am a **Full Stack Developer** with over **2 years of experience** in building 
       <h3>🏫 College Management</h3>
       <p>A portal for students and faculty to manage campus notices.</p>
       <b>Tech Stack:</b> MongoDB • Express • React<br/>
-      <a href="https://github.com/ankurkushwaha809">View Code</a>
+      <a href="https://github.com/ankurkushwaha809/College-ERP">View Code</a>
     </td>
   </tr>
 </table>
