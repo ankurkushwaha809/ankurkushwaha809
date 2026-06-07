@@ -63,7 +63,7 @@ I am a **Full Stack Developer** with over **2 years of experience** in building 
       <h3>🏥 Bulk Medicine Marketplace</h3>
       <p>A marketplace for medical supplies with logistics tracking.</p>
       <b>Tech Stack:</b> React Native • Node.js<br/>
-      <a href="https://github.com/ankurkushwaha809">View Code</a> • <a href="https://kuremedi.duckdns.org/">Live Demo</a>
+      <a href="https://github.com/ankurkushwaha809/-KUREMEDI-LUCENT-Project">Private Code</a> • <a href="https://kuremedi.duckdns.org/">Live Demo</a>
     </td>
     <td width="50%">
       <h3>🤖 AI Voice Chatbot</h3>
@@ -83,7 +83,7 @@ I am a **Full Stack Developer** with over **2 years of experience** in building 
       <h3>🏫 College Management</h3>
       <p>A portal for students and faculty to manage campus notices.</p>
       <b>Tech Stack:</b> MongoDB • Express • React<br/>
-      <a href="https://github.com/ankurkushwaha809">View Code</a> • <a href="https://ankurportfolio809.vercel.app">Live Demo</a>
+      <a href="https://github.com/ankurkushwaha809">View Code</a>
     </td>
   </tr>
 </table>
