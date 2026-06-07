@@ -119,13 +119,22 @@ I am a **Full Stack Developer** with over **2 years of experience** in building 
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankurkushwaha809&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurkushwaha809&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
 
+## 🎮 Developer Profile
+
+| Skill | Progress |
+|---------|----------|
+| Frontend | █████████ 100% |
+| Backend | ████████░░ 80% |
+| Database | ███████░░░ 70% |
+| DevOps | ██████░░░░ 60% |
+| AI/ML | █████░░░░░ 50% |
+
+### 🏆 Level
+█████████░ 90%
 ---
 
 <div align="center">
