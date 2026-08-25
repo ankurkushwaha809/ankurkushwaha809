@@ -50,7 +50,7 @@
 <p align="left">
 <img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding grid"/>
 
-I am a **Full Stack Developer** with over **2 years of experience** in building web and mobile applications. I enjoy building practical products and exploring how AI can be integrated into real-world apps.
+I am a **Full Stack Developer** with **Hands on experience** in building web and mobile applications. I enjoy building practical products and exploring how AI can be integrated into real-world apps.
 
 - 🔭 **What I do:** Build mobile apps with React Native and backends with Node.js.
 - 🌱 **Learning:** Cloud services and better system architecture.
